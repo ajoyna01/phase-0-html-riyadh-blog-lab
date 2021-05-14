@@ -6,7 +6,7 @@ html, body {
 }
 
 body {
-  background: url(../images/backgrounds/architecture.jpg) center no-repeat;
+  background-color: rgb(207, 115, 115) ; 
   background-size: cover;
   background-attachment: fixed;
   font-family: Helvetica, Arial, sans-serif;
@@ -25,8 +25,8 @@ body {
 }
 
 h1, h2 {
-  font-family: 'Gabriela', serif;
-  color: #fff;
+  font-family: 'Helvetica', serif;
+  color: black;
 }
 
 h1 {
@@ -40,7 +40,7 @@ h2 {
 }
 
 h3 {
-  font-family: 'Gabriela', serif;
+  font-family: 'Gill Sans', sans-serif;
   font-size: 1.5em;
   margin-top: .5em;
 }
@@ -56,7 +56,7 @@ p {
 }
 
 a {
-  color: black;
+  color: violet;
   text-decoration: none;
 }
 
